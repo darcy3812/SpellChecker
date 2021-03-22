@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpellChecker", "SpellChecker\SpellChecker.csproj", "{31EF1583-30E4-4C10-B01C-EC2F4CBD92F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellCheckerTests", "SpellCheckerTests\SpellCheckerTests.csproj", "{82E3491E-D2F1-4B65-895E-D19C51623BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EF1583-30E4-4C10-B01C-EC2F4CBD92F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EF1583-30E4-4C10-B01C-EC2F4CBD92F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EF1583-30E4-4C10-B01C-EC2F4CBD92F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EF1583-30E4-4C10-B01C-EC2F4CBD92F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E3491E-D2F1-4B65-895E-D19C51623BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E3491E-D2F1-4B65-895E-D19C51623BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E3491E-D2F1-4B65-895E-D19C51623BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E3491E-D2F1-4B65-895E-D19C51623BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4614500-0106-4273-A5D1-0133AC5E4F45}
+	EndGlobalSection
+EndGlobal
